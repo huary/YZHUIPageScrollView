@@ -1,0 +1,25 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "9200413c-414e-46ce-a3b3-e17276296fd2++4453",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+    "9200413c-414e-46ce-a3b3-e17276296fd2++4453" : {
+
+    }
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "9200413c-414e-46ce-a3b3-e17276296fd2++4453" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "57E31AD5-D07A-449A-B10F-E5E395E4B2F0",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "9200413c-414e-46ce-a3b3-e17276296fd2++4453" : "SDK\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "YZHUIPageScrollViewDemo",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "self\/YZHUIPageScrollViewDemo\/YZHUIPageScrollViewDemo.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "svn:\/\/127.0.0.1",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Subversion",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "9200413c-414e-46ce-a3b3-e17276296fd2++4453"
+    }
+  ]
+}
